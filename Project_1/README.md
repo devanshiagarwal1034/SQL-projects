@@ -1,1 +1,1 @@
-this is new sql peoject 
+this is new sql project
